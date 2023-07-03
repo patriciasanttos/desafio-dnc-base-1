@@ -5,8 +5,7 @@
 
 
 html {
-    /* Inseri largura fixa para melhor visualização em telas diferentes */
-    width: 1440px;
+    width: 100%;
 }
 
 #menu-superior {
